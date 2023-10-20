@@ -1,0 +1,36 @@
+{
+	"result": {
+		"code": "CF-00000",
+		"extraMessage": "",
+		"message": "성공",
+		"transactionId": "ce312bfbbe13467bb59ccfd712768b7e"
+	},
+	"data": [
+		{
+			"resCardType": "",
+			"resCardName": "**카드(할인형)",
+			"resCardBenefitList": [
+				{
+					"resCardBenefitName": "0.7% 기본 할인",
+					"resBusinessTypes": "",
+					"resCardPerformanceList": [
+						{
+							"commStartDate": "",
+							"resRequiredPerformanceAmt": "",
+							"resMeetPerformanceYN": "1",
+							"resCoverageCriteria": "",
+							"resCurrentUseAmt": "",
+							"commEndDate": "",
+							"resStandardUseAmt": ""
+						}
+					],
+					"resType": "이번 달 기본 할인",
+					"resDetailList": []
+				}
+			],
+			"resLnkUrl": "",
+			"resCardNo": "",
+			"resCardCompany": ""
+		}
+	]
+}
